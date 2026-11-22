@@ -1,0 +1,5 @@
+interface:
+  display_name: "Rubin"
+  short_description: "Olha o que você criou com o critério de um grande produtor"
+policy:
+  allow_implicit_invocation: false
